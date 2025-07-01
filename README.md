@@ -45,7 +45,7 @@ Control directions and speed seamlessly over a local Wi-Fi access point — no e
 
 ## 📡 How It Works
 
-- ESP8266 creates a Wi-Fi access point named **`GABY`**.
+- ESP8266 creates a Wi-Fi access point named **`******`**.
 - A built-in HTTP server listens on port `80`.
 - Phone connects directly to this AP.
 - Send commands via HTTP GET requests, e.g.:
